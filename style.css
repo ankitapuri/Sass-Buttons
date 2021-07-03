@@ -42,8 +42,8 @@
 
 .slide:hover,
 .slide:focus {
-  -webkit-box-shadow: inset 8.5em 0 0 0 var(--hover);
-          box-shadow: inset 8.5em 0 0 0 var(--hover);
+  -webkit-box-shadow: inset 12.5em 0 0 0 var(--hover);
+          box-shadow: inset 12.5em 0 0 0 var(--hover);
 }
 
 .offset {
